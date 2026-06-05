@@ -1,0 +1,9 @@
+# Compiled objects
+*.o
+
+# Test binaries
+tests/test_freelist
+tests/test_slab
+
+# Benchmark binary
+bench/bench
